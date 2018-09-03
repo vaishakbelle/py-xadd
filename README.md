@@ -2,7 +2,7 @@
 A python implementation of (some) XADD functionality
 
 
-Please see 
+Please cite as:
 
 Efficient Symbolic Integration for Probabilistic Inference.
 Kolb, S.; Mladenov, M.; Sanner, S.; Belle, V.; and Kersting, K.
